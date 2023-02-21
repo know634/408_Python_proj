@@ -1,0 +1,10 @@
+# -*- coding: gbk -*-
+import matplotlib.pyplot as plt
+def new_func():
+    print('hello, wordÒ»¶þÈý')
+
+new_func()
+
+import sys
+
+print(sys.executable)
