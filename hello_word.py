@@ -8,3 +8,5 @@ new_func()
 import sys
 
 print(sys.executable)
+
+print(__file__)
