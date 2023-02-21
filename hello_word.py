@@ -10,3 +10,5 @@ import sys
 print(sys.executable)
 
 print(__file__)
+
+print(123)
